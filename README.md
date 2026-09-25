@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 📊 Statistik GitHub Saya
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=asololeq&theme=catppuccin_mocha&show_icons=true)
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=asololeq&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=asololeq&theme=catppuccin_mocha&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=asololeq&theme=dark&layout=compact)
