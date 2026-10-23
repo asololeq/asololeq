@@ -2,7 +2,7 @@
   
 # Hi, I'm Sola (서라)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0bWNyNnNuY2ptMno5OWtmYWoyZ2psd25ucDI0MGF3NGppYWdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" width="200" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0bWNyNnNuY2ptMno5OWtmYWoyZ2psd25ucDI0MGF3NGppYWdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" alt="Coding GIF" />
 
 Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di dunia ini bekerja,<br> 
 mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna dan desain visual.
