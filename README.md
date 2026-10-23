@@ -1,7 +1,5 @@
 <div align="center">
   
-# Hi, I'm 
-
 <img src="./banner-github.gif" width="100%" alt="Animate Gift" />
 
 Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di dunia ini bekerja,<br> 
