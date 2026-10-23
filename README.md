@@ -23,9 +23,7 @@ Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di 
 **Design & Visual**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" height="40" alt="Design Icons" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" width="40" alt="Canva" />
-  <img src="https://cdn.simpleicons.org/affinitydesigner/1B72BE" height="40" width="40" alt="Affinity Designer" />
-  <img src="https://cdn.simpleicons.org/affinityphoto/7E4DD2" height="40" width="40" alt="Affinity Photo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="40" alt="Canva" />
 </p>
 
 ---
@@ -33,6 +31,6 @@ Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di 
 ### Statistik GitHub
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asololeq&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asololeq&theme=tokyonight&layout=compact&hide_border=false" />
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asololeq&theme=tokyonight" alt="GitHub Stats" />
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asololeq&theme=tokyonight" alt="Top Languages" />
 </div>
