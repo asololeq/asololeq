@@ -1,19 +1,26 @@
 <div align="center">
-<h1>Hi, I'm Sola (서라)</h1>
+  
+# Hi, I'm Sola (서라)
 
-Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di dunia ini bekerja, mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna dan desain visual.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0bWNyNnNuY2ptMno5OWtmYWoyZ2psd25ucDI0MGF3NGppYWdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" width="200" alt="Coding GIF" />
+
+Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di dunia ini bekerja,<br> 
+mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna dan desain visual.
 
 ---
+</div>
 
 ### Fokus & Eksplorasi Saat Ini
 
-- **Web Development:** Sedang mendalami Front-End & Full-Stack (HTML, CSS, JavaScript, React, PHP/Laravel) serta membiasakan *workflow* Git yang rapi (*Conventional Commits*).
-- **Cybersecurity & CTF:** Aktif belajar bersama komunitas di bidang *Network Forensics*, *Web Exploitation*, dan *Cryptography*.
-- **Problem Solving & Visual Design:** Menyukai tantangan yang menuntut ketelitian—baik saat *debugging* kode maupun mencari *flag* tersembunyi. Di sisi kreatif, rutin menggunakan **Canva** dan **Figma**, serta sedang mempelajari **Affinity**, **Adobe Illustrator**, dan **Photoshop** untuk kebutuhan gereja dan komunitas.
-- **Fun Fact:** Makanan atau minuman manis adalah *mood booster* andalan saat sedang pusing menghadapi *error*.
+- **Web Development** 
+- **Cybersecurity & CTF** 
+- **Problem Solving & Visual Design** 
+- **Fun Fact** <br> Makanan atau minuman manis adalah *mood booster* andalan saat sedang pusing menghadapi *error*.
 
 ---
 
+<div align="center">
+  
 ### Bahasa & Tools yang Dipelajari
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; text-align: left; max-width: 700px; margin: 0 auto;">
