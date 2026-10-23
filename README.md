@@ -46,8 +46,8 @@ mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna d
 ### Statistik GitHub
 
 <div align="center">
-  <img height="160" width="370" src="https://github-readme-stats.shion.dev/api?username=asololeq&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="seola's GitHub Stats" />
-  <img height="160" width="290" src="https://github-readme-stats.shion.dev/api/top-langs/?username=asololeq&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=asololeq&theme=catppuccin_mocha&hide_border=false&card_width=720" alt="GitHub Streak" />
+  <img height="200" width="450" src="https://github-readme-stats.shion.dev/api?username=asololeq&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="seola's GitHub Stats" />
+  <img height="200" width="355" src="https://github-readme-stats.shion.dev/api/top-langs/?username=asololeq&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img height="220" src="https://streak-stats.demolab.com/?user=asololeq&theme=dark&hide_border=true&card_width=810" alt="GitHub Streak" />
 </div>
 </div>
