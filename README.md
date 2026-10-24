@@ -19,8 +19,6 @@ mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna d
 
 <div align="center">
 
----
-
 ### Project Tracker & Fix Reminder
 
 Daftar proyek yang sedang dikerjakan, perlu dirapikan (*fix*), hingga target jangka panjang:
