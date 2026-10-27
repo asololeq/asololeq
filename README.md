@@ -23,13 +23,13 @@ mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna d
 
 Daftar proyek yang sedang dikerjakan, perlu dirapikan (*fix*), hingga target jangka panjang:
 
-| Nama Project | Deskripsi & Cakupan | Tech Stack | Status / Reminder |
-| :--- | :--- | :--- | :--- |
-| [**Sistem Akademik**](https://github.com/asololeq/first-projectLaravel) | Pengelolaan data dosen, mahasiswa, dan mata kuliah. | PHP (Laravel) & MySQL | ![Need to Fix](https://img.shields.io/badge/🔧_In_Progress-Need_to_Fix-D4A359?style=flat-square&labelColor=121D2F) |
-| [**Portal Artikel + Auth**🔒](https://github.com/asololeq/laravel-auth) | Halaman artikel lengkap dengan sistem autentikasi *login*. | PHP (Laravel) & MySQL | ![Need to Fix](https://img.shields.io/badge/🔧_In_Progress-Need_to_Fix-D4A359?style=flat-square&labelColor=121D2F) |
-| [**First Portfolio Web**🔒](https://github.com/asololeq/my-website) | Website pertamaku yang berfokus pada tampilan antarmuka untuk portofolio. | HTML, CSS & JS | ![Polish UI](https://img.shields.io/badge/✨_Ongoing-Polish_%26_Fix-38BDF8?style=flat-square&labelColor=121D2F) |
-| [**Overcial**](https://github.com/asololeq/first-proj-python) | Aplikasi penghitung pengeluaran dan pengatur target *budget* keuangan. | Python (Django) | ![In Development](https://img.shields.io/badge/🚧_Active-In_Development-D4A359?style=flat-square&labelColor=121D2F) |
-| [**Website GP**🔒](https://github.com/asololeq/web-gepek) | *Ultimate Goal Project* — dieksekusi penuh saat seluruh *skill* utama sudah matang. | Full-Stack Mastery | ![Future Goal](https://img.shields.io/badge/🎯_Target_Utama-Future_Goal-F43F5E?style=flat-square&labelColor=121D2F) |
+| Nama Project | Deskripsi & Cakupan | Tech Stack |
+| :--- | :--- | :--- |
+| [**Sistem Akademik**](https://github.com/asololeq/first-projectLaravel) | Pengelolaan data dosen, mahasiswa, dan mata kuliah. | PHP (Laravel) & MySQL | 
+| [**Portal Artikel + Auth**🔒](https://github.com/asololeq/laravel-auth) | Halaman artikel lengkap dengan sistem autentikasi *login*. | PHP (Laravel) & MySQL | 
+| [**First Portfolio Web**🔒](https://github.com/asololeq/my-website) | Website pertamaku yang berfokus pada tampilan antarmuka untuk portofolio. | HTML, CSS & JS | 
+| [**Overcial**](https://github.com/asololeq/first-proj-python) | Aplikasi penghitung pengeluaran dan pengatur target *budget* keuangan. | Python (Django) | 
+| [**Website GP**🔒](https://github.com/asololeq/web-gepek) | *Ultimate Goal Project* — dieksekusi penuh saat seluruh *skill* utama sudah matang. | Full-Stack Mastery | 
 
  **Self-Reminder:** *Satu per satu diselesaikan dan di-debug sampai tuntas sebelum lompat terlalu jauh!*
 
