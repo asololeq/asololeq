@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./banner-github.gif" width="100%" alt="Animate Gift" />
+<img src="./banner-githubnew.gif" width="100%" alt="Animate Gift" />
 
 Mahasiswa **Teknik Informatika** yang senang memahami bagaimana berbagai hal di dunia ini bekerja,<br> 
 mulai dari logika di balik baris kode, keamanan sistem, hingga psikologi warna dan desain visual.
